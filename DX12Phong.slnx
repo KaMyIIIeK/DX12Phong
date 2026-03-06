@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DX12Phong/DX12Phong.vcxproj" Id="cb49b5fe-d303-4610-8f0f-ad8bfe0dd491" />
+</Solution>
